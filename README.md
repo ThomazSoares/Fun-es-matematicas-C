@@ -30,7 +30,7 @@
             i++;
         }
         
-        if (ehs_primo == 1){
+        if (ehs_primo == 1 && num != 1){
             return 1;
         }
     }
